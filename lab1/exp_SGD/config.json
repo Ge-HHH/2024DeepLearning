@@ -1,0 +1,1 @@
+{"num_epochs": 120, "batch_size": 256, "learning_rate": 0.01, "weight_decay": 0, "dropout": 0.2}
